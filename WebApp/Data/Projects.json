@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Project 1",
+    "isActive": true,
+    "addedDate": "2021-12-01T14:45:06.6019156-06:00",
+    "effortRequireInDays": 30,
+    "developmentCost": 0.0,
+    "developers": null
+  },
+  {
+    "id": 2,
+    "name": "Project 2",
+    "isActive": true,
+    "addedDate": "2021-12-02T14:45:06.6144586-06:00",
+    "effortRequireInDays": 25,
+    "developmentCost": 0.0,
+    "developers": null
+  },
+  {
+    "id": 3,
+    "name": "Project 3",
+    "isActive": true,
+    "addedDate": "2021-12-02T14:45:06.6144586-06:00",
+    "effortRequireInDays": 365,
+    "developmentCost": 0.0,
+    "developers": null
+  },
+  {
+    "id": 10,
+    "name": "Project 10",
+    "isActive": true,
+    "addedDate": "2021-12-02T14:45:06.6144586-06:00",
+    "effortRequireInDays": 365,
+    "developmentCost": 0.0,
+    "developers": null
+  }
+]
